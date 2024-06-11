@@ -40,7 +40,8 @@
     margin-right: auto;
     padding-left: 0.5rem;
     padding-right: 0.5rem;
-    border: 1px solid var(--clr-main);
+    /*border: 1px solid var(--clr-main);*/
+    background-color: var(--clr-dark1);
 }
 
 .section {

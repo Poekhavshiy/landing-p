@@ -1,10 +1,11 @@
 :root {
-    --clr-dark: #242E3A;
+    --clr-dark1: #101010;
+    --clr-dark2: #101010;
     --clr-light: #f1f5f9;
-    --clr-slate400: #94a3b8;
-    --clr-slate600: #475569;
-    --clr-slate800: #1e293b;
-    --clr-main: #C3FC5E;
+    --clr-gray1: #646464;
+    --clr-gray2: #454545;
+    --clr-gray3: #292929;
+    --clr-main: #c3fc5e;
 
     --size-xxs: 0.5rem;
     --size-xs: 0.75rem;
@@ -34,7 +35,7 @@ html {
 
 body {
     font-family: 'General Sans', sans-serif;
-    background-color: var(--clr-dark);
+    background-color: var(--clr-dark2);
     color: var(--clr-light);
 }
 
